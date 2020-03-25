@@ -1,6 +1,9 @@
 # monFramework-php
 petite base pour projets en poo avec php
 
+Avec serveur apache php -S 0.0.0.0:80
+Avec mysql
+
 CREATE DATABASE IF NOT EXISTS jeu_poo_php;
 
 CREATE TABLE IF NOT EXISTS `personnages` (
